@@ -37,6 +37,7 @@ rasdial [连接名] /disconnect
 ![](img/trigger.png)
 然后点击`操作`，`新建`。脚本位置选择上一步创建好的脚本。
 ![](img/operation.png)
+
 保存即可。下次重启后会自动连接。
 
 
