@@ -53,4 +53,4 @@ rasdial [连接名] /disconnect
 
 保存即可。下次重启后会自动连接。
 
-Enjoy yourself.
+Have a nice day!
